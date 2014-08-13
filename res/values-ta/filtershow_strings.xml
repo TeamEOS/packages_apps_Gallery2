@@ -15,6 +15,6 @@
      limitations under the License.
 -->
 <resources>
-  <string name="original_picture_text">@string/original</string>
-  <string name="aspectOriginal_effect">@string/original</string>
+  <string name="draw_color">வண்ணம்</string>
+  <string name="color_border_color">வண்ணம்</string>
 </resources>
